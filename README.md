@@ -1,2 +1,3 @@
 # LeetCodeSolutions
-Solutions of LeetCode by dourgey.
+
+This is Solutions of LeetCode by dourgey.
